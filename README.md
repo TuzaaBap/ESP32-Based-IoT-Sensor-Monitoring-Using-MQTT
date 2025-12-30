@@ -13,7 +13,7 @@ This project implements a simple IoT-based sensor monitoring system using an ESP
 ---
 
 ## Hardware Components
-- ESP32 Dev Module  
+- ESP32 Dev Module (its 30 pins version your pins can be different go through your manufacturing pin diagram of your specfic board)
 - DHT11 (Air Temperature & Humidity)  
 - DS18B20 (Water Temperature Sensor)  
 - TDS Sensor (Total Dissolved Solids)  
